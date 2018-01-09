@@ -1,0 +1,11 @@
+Package: LLM
+Title: Logit Leaf Model
+Version: 0.0.0.9000
+Authors@R: person("Arno", "De Caigny", email = "arnodecaigny[AT]hotmail.com", role = c("aut", "cre"))
+Maintainer: Arno De Caigny <arnodecaigny@hotmail.com>
+Description: Create a logit leaf model, make predictions and visualize the output.
+Depends: R (>= 3.3.1), RWeka
+License: GPL (>=3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
