@@ -13,7 +13,7 @@ The LLLM package has three functions:
   > This function creates a llm object
 2) llm.predict
   > Use the object constructed with the llm function to make a prediction for (new) instances
-3) llm.create.HTML.viz
+3) create.HTML.viz
   > Renders HTML code to visualize the LLM
 
 
